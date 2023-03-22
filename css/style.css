@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Delicious+Handrawn&family=Fasthand&family=Noto+Sans+Thai:wght@100;500&display=swap');
+body{
+    font-size: 22px;
+}
+main{
+font-family: 'Alkatra', cursive;
+font-family: 'Delicious Handrawn', cursive;
+font-family: 'Fasthand', cursive;
+font-family: 'Noto Sans Thai', sans-serif;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.highlight{
+    background-color: gold;
+}
+#pchild{
+    color: green;
+}
+
+/* #specify ul li .li-class{
+    font-size: 40px;
+    color: red;
+} */
+
+/* ----> list style <---- */
+/* ul{
+    list-style-type:square;
+    text-align: center;
+    list-style-position:inside;
+    color: green;
+    font-size: 36px;
+    font-weight: 700;
+    list-style-image: url(/images/checklist.png);
+}
+
+ul li:not(:last-child){
+    color: pink;
+} */
+
+a{
+    font-size: 44px;
+    color: blue;
+}
+
+a:focus{
+    color: green;
+}
+
+a:hover{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+a:active{
+    color: red;   
+}
+
